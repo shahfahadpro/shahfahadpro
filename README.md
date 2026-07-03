@@ -3,27 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>README Preview — Shah Fahad</title>
-<style>
-  body { background:#f6f8fa; margin:0; padding:24px; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; }
-  .frame { max-width:920px; margin:0 auto; background:#fff; border:1px solid #d0d7de; border-radius:12px; padding:40px; color:#1f2328; line-height:1.6; font-size:16px; }
-  .frame h2 { border-bottom:1px solid #d8dee4; padding-bottom:.3em; margin-top:30px; }
-  .frame img { vertical-align:middle; margin:2px; max-width:100%; }
-  .frame a { color:#0969da; text-decoration:none; }
-  .frame a:hover { text-decoration:underline; }
-  .frame hr { border:none; border-top:1px solid #d8dee4; margin:24px 0; }
-  .frame details { border:1px solid #d0d7de; border-radius:6px; padding:10px 16px; margin:10px 0; background:#f6f8fa; }
-  .frame summary { cursor:pointer; font-weight:600; padding:4px 0; }
-  .frame summary:hover { color:#0969da; }
-  .frame blockquote { border-left:3px solid #d0d7de; margin:8px 0; padding:4px 14px; color:#57606a; }
-  .frame pre { background:#0d1117; color:#e6edf3; padding:16px; border-radius:8px; overflow-x:auto; font-size:14px; }
-  .frame pre code { background:none; color:inherit; padding:0; }
-  .frame code { background:#eff1f3; padding:2px 6px; border-radius:4px; font-size:85%; }
-  .banner { max-width:920px; margin:0 auto 16px; padding:12px 16px; background:#ddf4ff; border:1px solid #54aeff; border-radius:8px; color:#0a3069; font-size:14px; }
-</style>
 </head>
 <body>
-  <div class="banner">👁️ <b>Live preview</b> — this is how your README will render on GitHub. Click the ▸ arrows to test the expandable sections. The header, typing animation, icons and stat cards all load from the live web.</div>
   <div class="frame">
   <!--
   GitHub Profile README — Shah Fahad (@shahfahadpro)
