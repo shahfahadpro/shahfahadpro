@@ -1,197 +1,179 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-  <div class="frame">
-  <!--
+<!--
   GitHub Profile README — Shah Fahad (@shahfahadpro)
-  Replace ALL-CAPS placeholders with real links. Comments never show on your profile.
+  WORK IN PROGRESS — Sections 1–6 edited & locked. Sections 7–12 NOT yet reviewed
+  (they still contain content we're about to cut: real-time/WebSockets, 17-engineer
+  team, purged metrics, GenAI label, placeholders). Replace ALL-CAPS placeholders
+  with real links. Comments never show on your profile.
 -->
 
-<p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,40:3b82f6,100:8b5cf6&height=230&section=header&text=Shah%20Fahad&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Engineer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js%20%7C%205%2B%20years%20shipping%20production%20software&descSize=17&descAlignY=58&animation=fadeIn" alt="Shah Fahad"/></p>
+<p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1414,45:0f766e,100:6b5836&height=230&section=header&text=Shah%20Fahad&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Engineer%20%C2%B7%205%2B%20years%20shipping%20%C2%B7%20Now%20building%20toward%20Data%20Science%20%26%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Shah Fahad"/></p>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=680&lines=I+build+fast%2C+scalable+web+applications.;From+database+and+API+to+pixel-perfect+UI.;Real-time+systems+%E2%9A%A1+Performance-obsessed.;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+GraphQL." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D9488&center=true&vCenter=true&width=680&lines=I+build+fast%2C+scalable+web+applications.;From+database+and+API+to+pixel-perfect+UI.;Reusable+component+systems+%E2%9A%A1+Performance-obsessed.;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+GraphQL.;Growing+into+Data+Science+%26+AI." alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/shahfahadpro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shahfahad746@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="LINK_TO_YOUR_RESUME"><img src="https://img.shields.io/badge/Resume-8b5cf6?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=shahfahadpro&label=Profile%20views&color=3b82f6&style=for-the-badge"/>
+<a href="https://shahfahadpro.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://shahfahadpro.vercel.app/shah_fahad_cv_en"><img src="https://img.shields.io/badge/CV_(EN)-6b5836?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://shahfahadpro.vercel.app/shah_fahad_cv_de"><img src="https://img.shields.io/badge/Lebenslauf_(DE)-6b5836?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 </div>
 
-<p><br/></p>
-<h2>⚡ Impact at a Glance</h2>
+<br/>
+
+## ⚡ Impact at a Glance
+
 <div align="center">
 
-| 🚀 Latency | 📊 Performance | 👥 Team | 💳 Scale |
-|:---:|:---:|:---:|:---:|
-| **−60%** real-time data latency | **+45** Lighthouse points | Led in a **17-engineer** team | **10K+** monthly transactions |
+| 📊 Performance | 🧩 Code Quality | 👥 Team |
+|:---:|:---:|:---:|
+| **+45** Lighthouse (35→80) | **−40%** duplicate code | Led a **3-engineer** team |
 
 </div>
 
-<p><br/></p>
-<h2>👋 About Me</h2>
-<pre><code class="language-typescript">const shahFahad: Engineer = {
-  role: &quot;Fullstack Software Engineer&quot;,
-  location: &quot;Frankfurt, Germany 🇩🇪&quot;,
-  experience: &quot;5+ years shipping production software&quot;,
-  focus: [&quot;React&quot;, &quot;TypeScript&quot;, &quot;Node.js&quot;, &quot;Real-time systems&quot;, &quot;Performance&quot;],
-  currently: &quot;M.Sc. Web &amp; Data Science — growing into Data Science, ML &amp; GenAI&quot;,
-  languages: [&quot;English (C1)&quot;, &quot;German (B1, improving)&quot;, &quot;Urdu&quot;, &quot;Hindi&quot;, &quot;Pashto&quot;],
-  mindset: &quot;Own it end to end — from database and API to pixel-perfect UI.&quot;,
-};
-</code></pre>
-<ul>
-<li>⚡ I build modern frontends <strong>and</strong> the REST / WebSocket APIs behind them.</li>
-<li>🧩 Architected shared component libraries adopted across <strong>3 production services</strong>.</li>
-<li>🤖 Shipped <strong>Generative AI</strong> features with the Claude &amp; OpenAI APIs in real products.</li>
-<li>💬 Ask me about <strong>React architecture, TypeScript, real-time APIs, and performance</strong>.</li>
-</ul>
-<p><br/></p>
-<h2>🧰 Tech Stack</h2>
+<br/>
+
+## 👋 About Me
+
+I'm a fullstack software engineer based in Frankfurt with 5+ years building production web applications end to end, from database and API to the interface users actually touch. My core is React, TypeScript, and Node.js, with a strong focus on performance and clean, reusable frontend architecture. I'm currently doing an M.Sc. in Web & Data Science at the University of Koblenz, gradually moving from fullstack toward data and AI.
+
+**Languages:** English (C1) · German ([telc B1](https://results.telc.net/vb?credential=telc-fNXvSpc), improving) · Urdu · Hindi · Pashto (native)
+
+- 🧩 I design reusable component libraries and design systems that scale across teams.
+- ⚡ Performance is a focus for me: bundle size, rendering, and load times.
+- 🤖 I've integrated the Claude & OpenAI APIs into production workflows.
+- 💬 Ask me about React architecture, TypeScript, performance, and design systems.
+
+<br/>
+
+## 🧰 Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-6b5836?style=flat-square&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0f766e?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud · DevOps · Testing**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0f766e?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
+
+**Data & AI** <sub>(growing)</sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+🔗 &nbsp;See these skills in depth on my [portfolio »](https://shahfahadpro.vercel.app/en/#skills)
+
+<br/>
+
+## 🏢 Experience
+
 <div align="center">
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,tailwind" alt="Frontend"/>
-
-**Backend & APIs**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,mongodb,postgres,mysql" alt="Backend"/>
-
-**Cloud · DevOps · Testing**<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,jest,cypress" alt="DevOps"/>
-
-**Data & AI** <sub>(growing)</sub><br/>
-<img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow" alt="Data & AI"/>
-
-</div>
-
-<p><br/></p>
-<h2>🏢 Employment History</h2>
-<div align="center">
-
-| Role | Company | Period |
+| Role | Client / Focus | Period |
 |:---|:---|:---:|
-| **Senior Software Engineer I** | Creative Morph Inc. <sub>(DBA RemoteBase)</sub> | `Aug 2024 — Jun 2026` |
-| **Software Engineer II** | Creative Morph Inc. <sub>(DBA RemoteBase)</sub> | `Aug 2023 — Aug 2024` |
-| **Software Engineer I** | Creative Morph Inc. <sub>(DBA RemoteBase)</sub> | `Feb 2022 — Aug 2023` |
-| **Software Developer** | AlgoRack | `Sep 2020 — Jan 2022` |
+| **Senior Software Engineer I** | Gridware · AI Agents <sub>(internal)</sub> | `2024 to 2026` |
+| **Software Engineer II** | Walnut · Talently · Internal | `2023 to 2024` |
+| **Software Engineer I** | Qureos · Internal | `2022 to 2023` |
+| **Software Developer** | AlgoRack | `2020 to 2022` |
 
 </div>
 
-<details>
-  <summary align="center"><b>📈 &nbsp;See key achievements &nbsp;— click to expand</b></summary>
-  <br/>
+<div align="center">
+<sub>All RemoteBase roles under <b>Creative Morph DBA RemoteBase</b>.</sub>
 
-  **Senior Software Engineer I** · RemoteBase
-  - Built real-time features with React, TypeScript & WebSockets, cutting data insight delivery from 15 min to 2 min.
-  - Designed REST & WebSocket APIs, reducing sync latency by **60%** across microservices.
-  - Raised Lighthouse scores 35 → 80 (**+45 points**); integrated Claude & OpenAI APIs for 5 new GenAI use cases.
-  - Led delivery across a **17-engineer** team with 5–10 weekly PR reviews.
+🔗 &nbsp;See the full client-by-client breakdown on my [portfolio »](https://shahfahadpro.vercel.app/en/#experience)
 
-  **Software Engineer II** · RemoteBase
-  - Architected a shared library of 15+ reusable components across 3 services, cutting duplicate code by **40%**.
-  - Redesigned CI/CD with Docker, cutting build time by **35%** and infra costs by **20%**.
+</div>
 
-  **Software Engineer I** · RemoteBase
-  - Shipped a product MVP as sole engineer in 6 weeks — frontend, API layer & database schema.
+<br/>
 
-  **Software Developer** · AlgoRack
-  - Built dashboards integrating 6 REST APIs; cut First Contentful Paint by **40%**.
-  - Delivered a payment gateway processing **10,000+** monthly transactions (+15% conversion).
+## 📌 Featured Projects
 
-</details>
+<sub>Much of my work is client software under NDA, so links vary: some are live, some I can walk through privately on request, and some are startup products no longer active. Full case studies live on my portfolio.</sub>
 
-<p><br/></p>
-<h2>📌 Featured Projects</h2>
-<!-- Fill the CAPS placeholders. For PRIVATE work you can't share, link a demo VIDEO below instead. -->
+**🔹 Grid Monitoring Visualization Platform** &nbsp;<sub>Gridware · 2024 to 2026</sub><br/>
+Geospatial and time-series interface for power-grid monitoring and wildfire prevention across 7+ US states. Built the MapboxGL device map, uPlot charts for large datasets, and UI virtualization for heavy data loads.<br/>
+`React` `TypeScript` `MapboxGL` `uPlot` `GraphQL` &nbsp;·&nbsp; 🎥 Walkthrough available on request <sub>(confidential)</sub>
 
-<!-- EXAMPLE CONTENT below — replace the text and links with your real projects, then delete this note. -->
+**🔹 Multi-Agent Job Intelligence System** &nbsp;<sub>Internal · 2026</sub><br/>
+A three-agent pipeline on the Claude and OpenAI APIs: one agent searches job portals, one ranks results against set criteria, and one reports into Slack through user integrations.<br/>
+`Node.js` `TypeScript` `Claude API` `OpenAI API` `Slack` &nbsp;·&nbsp; 🎥 Walkthrough available on request <sub>(internal)</sub>
 
-<details>
-  <summary><b>🔹 &nbsp;Real-Time Analytics Dashboard &nbsp;— click to expand</b> &nbsp;<sub>(EXAMPLE — replace)</sub></summary>
-  <br/>
+**🔹 Interview Experience Platform** &nbsp;<sub>Talently · 2023</sub><br/>
+Interviewee-facing experience for an AI-assisted recruitment product. Built the candidate-side components and state management, and improved the overall flow and UI.<br/>
+`React` `TypeScript` &nbsp;·&nbsp; 🔗 [Live](https://interview.talently.ai/)
 
-  > **What it does:** A live dashboard that streams enterprise metrics in real time, cutting the time to surface insights from minutes to seconds.
-  > **Stack:** `React` `TypeScript` `Node.js` `WebSockets` `React Query`
-  > **Impact:** Reduced data sync latency by 60% and delivered stable low-latency updates across microservices.
+**🔹 Embeddable Eligibility Widget** &nbsp;<sub>Walnut · 2023 to 2024</sub><br/>
+A single-file, plain-JavaScript library for a US fintech, injected into client websites as a real-time eligibility pop-up. Served via AWS S3 and CloudFront, with a GitHub Actions pipeline that invalidated the CDN cache on each release. Co-led with one other engineer.<br/>
+`JavaScript` `AWS S3` `CloudFront` `GitHub Actions` `Stripe` &nbsp;·&nbsp; <sub>Startup product, no longer active</sub>
 
-  🔗 [Live Demo](YOUR_DEMO_LINK) &nbsp;·&nbsp; 💻 [Source Code](YOUR_REPO_LINK)
+**🔹 Online Learning Platform** &nbsp;<sub>Qureos · 2022</sub><br/>
+Course-based learning platform with authentication, role-based access, and separate admin and student portals. Worked across frontend and backend as a fullstack engineer.<br/>
+`Next.js` `NestJS` `MongoDB` &nbsp;·&nbsp; <sub>Startup product, since pivoted</sub>
 
-</details>
+**🔹 Cross-Platform Real Estate App** &nbsp;<sub>ReboGateway, via AlgoRack · 2020 to 2022</sub><br/>
+Cross-platform real-estate application for web and mobile (iOS and Android), including a payment gateway integration. Built as part of the AlgoRack engineering team.<br/>
+`Angular` `NativeScript` &nbsp;·&nbsp; 🔗 [Live](https://pro.rebogateway.com/)
 
-<details>
-  <summary><b>🔹 &nbsp;Shared UI Component Library &nbsp;— click to expand</b> &nbsp;<sub>(EXAMPLE — replace)</sub></summary>
-  <br/>
+<sub>🔗 &nbsp;Full case studies with more detail on my [portfolio »](https://shahfahadpro.vercel.app/en/#projects)</sub>
 
-  > **What it does:** A reusable design-system library of 15+ typed React components with Storybook documentation.
-  > **Stack:** `React` `TypeScript` `Storybook` `Tailwind CSS`
-  > **Impact:** Adopted across 3 production services by 4 engineers, cutting duplicate code by 40% and speeding up feature delivery.
+<br/>
 
-  🔗 [Live Demo](YOUR_DEMO_LINK) &nbsp;·&nbsp; 💻 [Source Code](YOUR_REPO_LINK)
-
-</details>
-
-<details>
-  <summary><b>🔹 &nbsp;AI-Powered Workflow Tool &nbsp;— click to expand</b> &nbsp;<sub>(EXAMPLE — replace)</sub></summary>
-  <br/>
-
-  > **What it does:** An internal tool that integrates the Claude and OpenAI APIs to automate routine engineering tasks.
-  > **Stack:** `React` `TypeScript` `Node.js` `Claude API` `OpenAI API`
-  > **Impact:** Identified 5 new GenAI use cases and cut routine task time by 30%.
-
-  🔗 [Live Demo](YOUR_DEMO_LINK) &nbsp;·&nbsp; 💻 [Source Code](YOUR_REPO_LINK)
-
-</details>
-
-<p><br/></p>
-<h2>🎬 Demo Videos</h2>
-<details>
-  <summary><b>▶️ &nbsp;Walkthroughs of my work &nbsp;— click to expand</b></summary>
-  <br/>
-
-  <sub>EXAMPLE format — record a short Loom / unlisted YouTube walkthrough and replace these.</sub>
-
-  - 🎥 **Real-Time Dashboard** <sub>(private client work)</sub> → [Watch](YOUR_VIDEO_LINK)
-  - 🎥 **Component Library Demo** → [Watch](YOUR_VIDEO_LINK)
-
-</details>
-
-<p><br/></p>
-<h2>🎓 Certifications &amp; Education</h2>
-<!--
-  IMPORTANT: I left these as placeholders — do NOT publish invented certs.
-  Add only real certifications, or delete any row you don't have.
--->
+## 🎓 Certifications & Education
 
 <div align="center">
 
 | 🏅 Certification / Degree | Issuer | Year |
 |:---|:---|:---:|
-| M.Sc. Web & Data Science <sub>(in progress)</sub> | University of Koblenz | 2025 — Present |
-| B.Sc. Computer Science | Mohammad Ali Jinnah University | 2017 — 2021 |
-| ADD_A_REAL_CERTIFICATION | ISSUER | YEAR |
+| M.Sc. Web & Data Science <sub>(in progress)</sub> | University of Koblenz | 2025 to Present |
+| B.Sc. Computer Science | Mohammad Ali Jinnah University | 2017 to 2021 |
+| telc German B1 <sub>([verify](https://results.telc.net/vb?credential=telc-fNXvSpc))</sub> | telc | 2026 |
 
 </div>
 
-<p><br/></p>
-<h2>🤝 Let's Build Something</h2>
+<br/>
+
+## 🤝 Let's Build Something
+
 <div align="center">
 
-**Open to Fullstack · Frontend · Data/AI roles in Germany** — full-time & working-student
+**Open to Fullstack · Frontend · Data/AI roles in Germany** · full-time & working-student
 
 <a href="https://www.linkedin.com/in/shahfahadpro"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shahfahad746@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
-<p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,60:3b82f6,100:1e3a8a&height=120&section=footer"/></p>
-  </div>
-</body>
-</html>
+<p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6b5836,55:0f766e,100:0c1414&height=120&section=footer"/></p>
