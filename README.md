@@ -1,12 +1,10 @@
 <!--
   GitHub Profile README — Shah Fahad (@shahfahadpro)
-  WORK IN PROGRESS — Sections 1–6 edited & locked. Sections 7–12 NOT yet reviewed
-  (they still contain content we're about to cut: real-time/WebSockets, 17-engineer
-  team, purged metrics, GenAI label, placeholders). Replace ALL-CAPS placeholders
-  with real links. Comments never show on your profile.
+  Confirm before relying on live: telc year, and portfolio anchors (/en/#experience, /en/#projects).
+  Comments never show on your profile.
 -->
 
-<p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1414,45:0f766e,100:6b5836&height=230&section=header&text=Shah%20Fahad&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Engineer%20%C2%B7%205%2B%20years%20shipping%20%C2%B7%20Now%20building%20toward%20Data%20Science%20%26%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Shah Fahad"/></p>
+<p><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1414,45:0f766e,100:6b5836&height=230&section=header&text=Shah%20Fahad&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Engineer%20%C2%B7%205%2B%20years%20shipping%20%C2%B7%20Now%20building%20toward%20Data%20Science%20%26amp%3B%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Shah Fahad"/></p>
 
 <div align="center">
 
@@ -121,31 +119,16 @@ I'm a fullstack software engineer based in Frankfurt with 5+ years building prod
 
 ## 📌 Featured Projects
 
-<sub>Much of my work is client software under NDA, so links vary: some are live, some I can walk through privately on request, and some are startup products no longer active. Full case studies live on my portfolio.</sub>
+<sub>Much of my work is client software under NDA, so proof varies: some live, some I can walk through privately on request, and some are startup products no longer active. Full case studies live on my portfolio.</sub>
 
-**🔹 Grid Monitoring Visualization Platform** &nbsp;<sub>Gridware · 2024 to 2026</sub><br/>
-Geospatial and time-series interface for power-grid monitoring and wildfire prevention across 7+ US states. Built the MapboxGL device map, uPlot charts for large datasets, and UI virtualization for heavy data loads.<br/>
-`React` `TypeScript` `MapboxGL` `uPlot` `GraphQL` &nbsp;·&nbsp; 🎥 Walkthrough available on request <sub>(confidential)</sub>
-
-**🔹 Multi-Agent Job Intelligence System** &nbsp;<sub>Internal · 2026</sub><br/>
-A three-agent pipeline on the Claude and OpenAI APIs: one agent searches job portals, one ranks results against set criteria, and one reports into Slack through user integrations.<br/>
-`Node.js` `TypeScript` `Claude API` `OpenAI API` `Slack` &nbsp;·&nbsp; 🎥 Walkthrough available on request <sub>(internal)</sub>
-
-**🔹 Interview Experience Platform** &nbsp;<sub>Talently · 2023</sub><br/>
-Interviewee-facing experience for an AI-assisted recruitment product. Built the candidate-side components and state management, and improved the overall flow and UI.<br/>
-`React` `TypeScript` &nbsp;·&nbsp; 🔗 [Live](https://interview.talently.ai/)
-
-**🔹 Embeddable Eligibility Widget** &nbsp;<sub>Walnut · 2023 to 2024</sub><br/>
-A single-file, plain-JavaScript library for a US fintech, injected into client websites as a real-time eligibility pop-up. Served via AWS S3 and CloudFront, with a GitHub Actions pipeline that invalidated the CDN cache on each release. Co-led with one other engineer.<br/>
-`JavaScript` `AWS S3` `CloudFront` `GitHub Actions` `Stripe` &nbsp;·&nbsp; <sub>Startup product, no longer active</sub>
-
-**🔹 Online Learning Platform** &nbsp;<sub>Qureos · 2022</sub><br/>
-Course-based learning platform with authentication, role-based access, and separate admin and student portals. Worked across frontend and backend as a fullstack engineer.<br/>
-`Next.js` `NestJS` `MongoDB` &nbsp;·&nbsp; <sub>Startup product, since pivoted</sub>
-
-**🔹 Cross-Platform Real Estate App** &nbsp;<sub>ReboGateway, via AlgoRack · 2020 to 2022</sub><br/>
-Cross-platform real-estate application for web and mobile (iOS and Android), including a payment gateway integration. Built as part of the AlgoRack engineering team.<br/>
-`Angular` `NativeScript` &nbsp;·&nbsp; 🔗 [Live](https://pro.rebogateway.com/)
+| Project | What I built | Stack | Link |
+|:--|:--|:--|:--|
+| **Grid Monitoring Visualization Platform** <br/><sub>Gridware · 2024 to 2026</sub> | Geospatial device map (MapboxGL) and time-series charts (uPlot) for power-grid monitoring across 7+ US states, with UI virtualization for heavy data loads. | `React` `TypeScript` `MapboxGL` `uPlot` `GraphQL` | 🎥 On request |
+| **Multi-Agent Job Intelligence System** <br/><sub>Internal · 2026</sub> | Three-agent pipeline on the Claude & OpenAI APIs: one searches job portals, one ranks results against set criteria, one reports into Slack via user integrations. | `Node.js` `TypeScript` `Claude API` `OpenAI API` | 🎥 On request |
+| **Interview Experience Platform** <br/><sub>Talently · 2023</sub> | Candidate-side components and state management for an AI-assisted recruitment product, plus improvements to the overall flow and UI. | `React` `TypeScript` | 🔗 [Live](https://interview.talently.ai/) |
+| **Embeddable Eligibility Widget** <br/><sub>Walnut · 2023 to 2024</sub> | Single-file plain-JavaScript library for a US fintech, injected into client sites as a real-time pop-up. Served via S3 + CloudFront with GitHub Actions handling CDN cache invalidation on each release. Co-led with one engineer. | `JavaScript` `AWS` `CloudFront` `Stripe` | Archived |
+| **Online Learning Platform** <br/><sub>Qureos · 2022</sub> | Course-based learning platform with authentication, role-based access, and separate admin and student portals. Worked frontend and backend. | `Next.js` `NestJS` `MongoDB` | Archived |
+| **Cross-Platform Real Estate App** <br/><sub>ReboGateway, via AlgoRack · 2020 to 2022</sub> | Real-estate app for web and mobile (iOS and Android) with a payment gateway integration. Built as part of the AlgoRack engineering team. | `Angular` `NativeScript` | 🔗 [Live](https://pro.rebogateway.com/) |
 
 <sub>🔗 &nbsp;Full case studies with more detail on my [portfolio »](https://shahfahadpro.vercel.app/en/#projects)</sub>
 
